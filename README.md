@@ -1,2 +1,2 @@
 # rust-tuts
-Tutorials and misc. experiments
+Nothing really interesting here, just tutorial exercises and misc. artifacts from learning to program with Rust.
